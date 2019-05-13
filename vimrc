@@ -1,7 +1,7 @@
-# Enable syntax highlighting
+" Enable syntax highlighting
 :syntax on
 
-# Make backspace work as expected
+" Make backspace work as expected
 set backspace=2
 
 
